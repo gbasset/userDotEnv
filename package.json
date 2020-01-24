@@ -1,0 +1,9 @@
+{
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "dot-env": "0.0.1",
+    "dotenv": "^8.2.0"
+  }
+}
